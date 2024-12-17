@@ -10,7 +10,4 @@
 
 <h2 align="center"> Analisis </h2> 
 
-- Zero-Shot Classification
-Merupakan jenis klasifikasi dengan metode Zero-Shot yang menurut saya sangat menarik untuk dicoba dengan alasan....................
-
-Dst...
+Zero-shot classification adalah teknik yang memungkinkan pengklasifikasian teks ke dalam kategori yang telah ditentukan sebelumnya tanpa memerlukan dataset pelatihan yang telah dilabeli untuk kategori tersebut.
